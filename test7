@@ -1,5 +1,12 @@
 first line
 
+<<<<<<< HEAD
 second line
 third line
 fourth line
+=======
+
+
+fouth line
+fifth line
+>>>>>>> test
